@@ -1,2 +1,0 @@
-# ribbon-consumer
-ribbon-consumer
